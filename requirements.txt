@@ -1,2 +1,5 @@
 openai==0.28
 pyTelegramBotAPI
+pandas
+pdfminer.six
+Pillow
