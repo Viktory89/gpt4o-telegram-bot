@@ -3,3 +3,4 @@ pyTelegramBotAPI
 pandas
 pdfminer.six
 Pillow
+requests
