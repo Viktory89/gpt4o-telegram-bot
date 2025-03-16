@@ -1,5 +1,6 @@
 openai==0.28
 pyTelegramBotAPI
+flask
 pandas
 pdfminer.six
 Pillow
